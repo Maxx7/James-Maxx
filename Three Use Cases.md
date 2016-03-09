@@ -38,7 +38,7 @@ Trigger:
 
 Use Case #3
 
-Title:
+Title: The manager checks the volurnibility of database in the system
 
 Primary Actor:
 
