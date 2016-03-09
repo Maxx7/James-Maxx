@@ -19,7 +19,7 @@ Trigger: Code check in
 
 Use Case #2
 
-Title:
+Title: Corporate managers set policy to control project vulnerabilities 
 
 Primary Actor:
 
