@@ -25,15 +25,15 @@ Primary Actor: Corporate Managers
 
 Goal in Context: Set up a policy database and control project vulnerabilities. 
 
-Stakeholders: Project and corporate managers
+Stakeholders: Project manager and corporate managers.
 
 Preconditions: Check project information for vulnerability and make sure it follows policy regulation.
 
-Main Success Scenario: 
+Main Success Scenario: Project vulnerability information passed policy requirement 
 
-Failed End Conditions:
+Failed End Conditions: Project information failed policy requirement, represent a risk. 
 
-Trigger:
+Trigger: violated policy.
 
 
 Use Case #3
