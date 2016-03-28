@@ -21,7 +21,7 @@ Use Case #2
 
 Title: Corporate managers set policy to control project vulnerabilities 
 
-Primary Actor:
+Primary Actor: Corporate Managers
 
 Goal in Context:
 
