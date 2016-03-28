@@ -27,7 +27,7 @@ Goal in Context: Set up a policy database and control project vulnerabilities.
 
 Stakeholders: Project and corporate managers
 
-Preconditions:
+Preconditions: Check project information for vulnerability and make sure it follows policy regulation.
 
 Main Success Scenario: 
 
