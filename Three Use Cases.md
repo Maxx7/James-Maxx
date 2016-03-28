@@ -27,7 +27,7 @@ Goal in Context:
 
 Stakeholders: Project and corporate managers
 
-Preconditions:
+Preconditions: Check project information for vulnerability and make sure it follows the policy regulation.
 
 Main Success Scenario:
 
