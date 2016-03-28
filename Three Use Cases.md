@@ -25,7 +25,7 @@ Primary Actor: Corporate Managers
 
 Goal in Context:
 
-Stakeholders:
+Stakeholders: Project and corporate managers
 
 Preconditions:
 
