@@ -23,13 +23,13 @@ Title: Corporate managers set policy to control project vulnerabilities
 
 Primary Actor: Corporate Managers
 
-Goal in Context:
+Goal in Context: Set up a policy database and control project vulnerabilities. 
 
 Stakeholders: Project and corporate managers
 
-Preconditions: Check project information for vulnerability and make sure it follows the policy regulation.
+Preconditions:
 
-Main Success Scenario:
+Main Success Scenario: 
 
 Failed End Conditions:
 
