@@ -1,7 +1,7 @@
 ## External Sources
-Developer: 
-National Vulnerability Database: 
-Corporate Manager: 
+* Developer: 
+* National Vulnerability Database: 
+* Corporate Manager: 
 
 ## Database
 
@@ -9,9 +9,9 @@ Corporate Manager:
 
 
 ## Processes
-Manager Code Stream:
-Manage Project Information:
-License Control:
-Manager Policy Information:
-Manager CPE Information:
-???: 
+* Manager Code Stream:
+* Manage Project Information:
+* License Control:
+* Manager Policy Information:
+* Manager CPE Information:
+* ???: 
