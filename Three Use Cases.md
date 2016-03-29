@@ -40,11 +40,11 @@ Use Case #3
 
 Title: The manager checks the volurnibility of database in the system
 
-Primary Actor:
+Primary Actor: Corporate Managers
 
-Goal in Context:
+Goal in Context:avoid any issues might happen in the system 
 
-Stakeholders:
+Stakeholders:Project manager and corporate managers
 
 Preconditions:
 
