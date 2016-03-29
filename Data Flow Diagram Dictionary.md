@@ -1,17 +1,11 @@
-## External Sources
-* Developer: 
-* National Vulnerability Database: 
-* Corporate Manager: 
-
-## Database
+# External Sources
 
 
 
 
-## Processes
-* Manager Code Stream:
-* Manage Project Information:
-* License Control:
-* Manager Policy Information:
-* Manager CPE Information:
-* ???: 
+# Database
+* NIST: it carries the standards names for packages or files of software.  
+* Policy database:it holds the all policy information of the copmany's info. 
+* Risk database:
+
+# Processes
