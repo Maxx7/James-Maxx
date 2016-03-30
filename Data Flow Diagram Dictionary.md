@@ -6,7 +6,7 @@
 ## Database
 * NIST: it carries the standards names for packages or files of software.  
 * Policy database:it holds the all policy information of the copmany's info. 
-* Risk database:
+* Risk database:it holds the information that could risk the software and could affect it 
 
 ## Processes
 * Manager Code Stream:
