@@ -1,7 +1,7 @@
 #Executive Summary
 
 ## Problem
-The problems here is that the manage code stream has too many work load, the corporate manager needs a policy setup and developer needs to receive feedbacks from what he/she sent. 
+The problems here are that the manage code stream has too many work load, the corporate manager needs a policy setup and developer needs to receive feedbacks from what he/she sent. 
 
 
 ## Solution
