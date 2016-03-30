@@ -1,11 +1,13 @@
-Document Information
+##Document Information
 
-Date/Author
+##Date
 
-Project Information
+##Author
 
-Name/Submitter
+##Project Information
 
-Package Information
+##Name/Submitter
 
-Name/CVE
+##Package Information
+
+##Name/CVE
