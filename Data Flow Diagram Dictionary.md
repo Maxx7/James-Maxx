@@ -1,7 +1,7 @@
-## External Sources
-* Developer:
-* National Vulnerability Database: 
-* Corporate Manager: 
+## Entities
+* Developer: Code developer in the company.
+* Corporate Manager: Managers who makes decisions and evaluates policy infomation. 
+* National Vulnerability Database: A US government Vulnerability data instution, manages the National Vulnerability Database.
 
 ## Database
 * NIST: it carries the standards names for packages or files of software.  
