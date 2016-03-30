@@ -1,3 +1,5 @@
+# Data Flow Diagram Dictionary
+
 ## Entities
 * Developer: Code developer in the company.
 * Corporate Manager: Managers who makes decisions and evaluates policy infomation. 
@@ -9,9 +11,9 @@
 * Risk database:it holds the information that could risk the software and could affect it 
 
 ## Processes
-* Manager Code Stream:
-* Manage Project Information:
-* Manager Policy Information:
-* License Control:
-* Manager CPE Information:
-* ???
+* Manager Code Stream: A central process that connects developer and manager, as well as others.
+* Manage Project Information: A process that manage code and information for corporate manager.
+* Manager Policy Information: A process that handles policy information comes and goes between policy database and corporate manager.
+* License Control: This process checks the license and copyright of the code.
+* Manager CPE Information: This process manages the CPE information between National Vulnerability Database and NIST.
+
