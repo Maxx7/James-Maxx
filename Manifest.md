@@ -6,8 +6,8 @@
 
 ###Project Information
 
-###Name/Submitter
+###Submitter
 
 ###Package Information
 
-###Name/CVE
+###CVE
