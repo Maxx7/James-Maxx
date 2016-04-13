@@ -6,9 +6,9 @@
 * National Vulnerability Database: A US government Vulnerability data instution, manages the National Vulnerability Database.
 
 ## Database
-* NIST: it carries the standards names for packages or files of software.  
-* Policy database:it holds the all policy information of the copmany's info. 
-* Risk database:it holds the information that could risk the software and could affect it 
+* NIST:It carries the standards names for packages or files of software.  
+* Policy database:It holds the all policy information of the copmany's info. 
+* Risk database:It holds the information that could risk the software and could affect it 
 
 ## Processes
 * Manager Code Stream: A central process that connects developer and manager, as well as others.
