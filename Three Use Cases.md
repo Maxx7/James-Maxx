@@ -44,7 +44,7 @@ Primary Actor: Corporate Managers
 
 Goal in Context:avoid any issues might happen in the system 
 
-Stakeholders:Project manager and corporate managers
+Stakeholders:project manager and corporate manager
 
 Preconditions:
 
