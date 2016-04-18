@@ -1,3 +1,4 @@
+-----
 ##Use Case #1
 
 **Title:** Developer commits code to be examined for vulnerabilities
@@ -16,7 +17,7 @@
 
 **Trigger:** Code check in
 
-
+-----
 ##Use Case #2
 
 **Title:** Corporate managers set policy to control project vulnerabilities 
@@ -35,7 +36,7 @@
 
 **Trigger:** violated policy.
 
-
+-----
 ##Use Case #3
 
 **Title:** The manager checks the volurnibility of database in the system
