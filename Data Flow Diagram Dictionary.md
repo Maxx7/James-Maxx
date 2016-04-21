@@ -16,4 +16,26 @@
 * Manager Policy Information: A process that handles policy information comes and goes between policy database and corporate manager.
 * License Control: This process checks the license and copyright of the code.
 * Manager CPE Information: This process manages the CPE information between National Vulnerability Database and NIST.
+* Update Risk Database: 
+* Manifest: 
 
+## Data flows
+* Files: 
+* CPE Info Response: 
+* License and copyright Info Request: 
+* License and copyright Info Response: 
+* CPE response: 
+* CPE request: 
+* CPE File Info: 
+* CPE Info and File: 
+* CPE Info and File: 
+* Package Info Request: 
+* Package Info Response: 
+* Project Info Ruquest: 
+* Project Info Response: 
+* Project Info: 
+* Project Manifest Result: 
+* Package Info: 
+* Project Info Request: 
+* Policy Info Response: 
+* 
