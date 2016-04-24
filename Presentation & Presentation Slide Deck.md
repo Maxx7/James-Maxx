@@ -96,4 +96,20 @@
 
 #usecase #2
 
+**Title:** Corporate managers set policy to control project vulnerabilities 
+
+**Primary Actor:** Corporate Managers
+
+**Goal in Context:** Set up a policy database and control project vulnerabilities. 
+
+**Stakeholders:** Project manager and corporate managers.
+
+**Preconditions:** Check project information for vulnerability and make sure it follows policy regulation.
+
+**Main Success Scenario:** Project vulnerability information passed policy requirement 
+
+**Failed End Conditions:** Project information failed policy requirement, represent a risk. 
+
+**Trigger:** violated policy.
+
 #usecase #3
