@@ -10,18 +10,18 @@
 #Policy 
 
 #Manaifest 
-##Document
+###Document
 * Date: 
 * Author: 
 * Document License: 
 * Comments: 
 
-##Project
+###Project
 * Project Name:
 * Submitter:
 * Project code:
 
-##Package
+###Package
 * Update Date: 
 * Name:
 * CVE:
