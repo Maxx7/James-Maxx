@@ -113,3 +113,18 @@
 **Trigger:** violated policy.
 
 #usecase #3
+**Title:** The manager checks the volurnibility of database in the system
+
+**Primary Actor:** Corporate Managers
+
+**Goal in Context:** avoid any issues might happen in the system 
+
+**Stakeholders:** project manager and corporate manager
+
+**Preconditions:** File/package information is in the License DB, Proper project information has been recovered
+
+**Main Success Scenario:** Corporate manager reciecves formed license and vulnerability inforamtion for the requested project info
+
+**Failed End Conditions:** Corporate manager recieved pooryly formed license and vulnerability inforamtion for the requested project information
+
+**Trigger:** Corporate manager uploades project information to which license and vulnerability inforamtion is recovered from the License DB
