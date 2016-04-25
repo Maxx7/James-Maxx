@@ -1,13 +1,18 @@
 ##Document
-* Date: 
-* Author: 
-* Document License: 
-* Comments: 
+* Document ID
+* Document Name
+* Document Date
+* Document Editor
+* Document License
+* Document type
+* Document Reference
+* Document Comments
 
 ##Project
-* Project Name:
-* Submitter:
-* Project code:
+* Project ID
+* Project Name
+* Project date
+* Project creator
 
 ##Package
 * Update Date: 
@@ -18,6 +23,11 @@
 * Size: 
 * Location: 
 
+##Risk Database
+* Project Name
+* Package Name
+* Project Date
+* Comments
 
 
 
