@@ -6,3 +6,16 @@
 
 ###Response:
     If file failed CVE score, reject the file until requirement is met.
+
+###Policy ID
+
+###Policy Name
+
+###Policy Update date
+
+###Policy Issuer
+
+###Policy License
+
+###Policy Comment
+
