@@ -38,4 +38,5 @@
 * Package Info: Sent the project information to the policy database.
 * Project Info Request: Sent the request project information to the policy database.
 * Policy Info Response: Response the policy information of project to corporate manager.
+* License Information & files: Update License and copyright informtion to the Risk database.
 
